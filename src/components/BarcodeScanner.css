@@ -1,0 +1,28 @@
+
+.ScannerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+
+.ScannerWindow {
+  width: 100%;
+  max-width: 300px;
+}
+
+
+.ResultText {
+  font-size: 18px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+.ErrorMessage {
+  color: red;
+  font-size: 16px;
+  margin-top: 20px;
+  text-align: center;
+}
